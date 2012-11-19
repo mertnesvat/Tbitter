@@ -1,0 +1,85 @@
+[17-Jul-2012 12:39:21 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(20): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156
+[17-Jul-2012 12:40:56 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(21): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156
+[17-Jul-2012 12:48:09 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(32): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156
+[17-Jul-2012 12:50:20 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(32): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156
+[17-Jul-2012 12:52:00 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(32): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156
+[17-Jul-2012 12:55:55 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [selam] does not comply with RFC 2822, 3.6.2.' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:310
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(231): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('selam')
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(94): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(58): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(56): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(71): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 310
+[17-Jul-2012 12:55:58 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [selam] does not comply with RFC 2822, 3.6.2.' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:310
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(231): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('selam')
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(94): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(58): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(56): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(71): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 310
+[17-Jul-2012 12:56:00 UTC] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [selam] does not comply with RFC 2822, 3.6.2.' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:310
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(231): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('selam')
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(94): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(58): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(56): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(71): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 310
+[17-Jul-2012 12:56:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/letscodi/public_html/twitter/Swift/onur.php on line 27
+[17-Jul-2012 12:57:24 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(32): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156
+[17-Jul-2012 13:04:19 UTC] PHP Fatal error:  Uncaught exception 'Swift_IoException' with message 'Connection to smtp.gmail.com:465 Timed Out' in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php:156
+Stack trace:
+#0 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(392): Swift_Transport_StreamBuffer->readLine(0)
+#1 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(283): Swift_Transport_AbstractSmtpTransport->_getFullResponse(0)
+#2 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_AbstractSmtpTransport->_readGreeting()
+#3 /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Mailer.php(76): Swift_Transport_AbstractSmtpTransport->start()
+#4 /home/letscodi/public_html/twitter/Swift/onur.php(41): Swift_Mailer->send(Object(Swift_Message))
+#5 {main}
+  thrown in /home/letscodi/public_html/twitter/Swift/lib/classes/Swift/Transport/StreamBuffer.php on line 156

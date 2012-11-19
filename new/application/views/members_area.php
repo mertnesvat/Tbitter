@@ -1,0 +1,1 @@
+<p>members area only!<?php echo anchor('login/logout', '  Cikis');?></p>

@@ -1,0 +1,29 @@
+Bilgisayar Grafikleri gecme notu hesaplama :MN:Yrd.Doç.Dr. Ahmet Sayar :MN:Bilgisayar Grafikleri gecme notu hesaplama :MN:26 Ocak 2012  :MN:A: final yada but 
+
+B: A ve proje ortalamasi 
+
+Sistemdeki vize ve final notunuz: 
+Final: B 
+Vize: B ve vize ortalamasi + (devam edilen gun sayisi) 
+
+Bu sekilde 
+%20 vize, %40 final ve %40 proje olarak gecme notlariniz agirliklandirilmistir. 
+
+Dersten gecebilmeniz icin 
+A>50 ve  
+B>50 ve  
+0.4*vize+0.6*final>50  sartlarinin saglanmasi gerekmektedir.  
+
+Devam ettiginiz gun sayisinin 0.4 u gecme notunuza eklenmistir.  
+Bu nedenle yukarida aciklandigi gibi vize notunuza eklenmistir. 
+Devam gecmenize degil gecme notunuzun iyilestirilmesine yardimci olmustur. 
+
+
+Bir onceki pdf dokumaninda bazi yazim ve hesap hatalari yapilmis olabilir.  
+Onlar (2-3 kisi) duzeltilip sisteme yeniden girildi. O nedenle Vize, proje ve final den alginiz notlari yukaridaki formullere gore hesaplayip, sistemde gorulen 
+
+notlarinizla kontrol ediniz. 
+
+Sistem 40-60 haricindeki agirliklandirmayi kabul etmedigi icin bu sekilde bir duzenlemenin yapilmasi geregi duyulmustur.     
+		
+				
